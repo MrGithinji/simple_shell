@@ -4,6 +4,6 @@ ________________________________________________________
 This is simple UNIX command interpreter.
 
 ### Collaborators
-1. Githinji Githogora
-2. Umar Sabiu
+1. Githinji Githogora :kenya:
+2. Umar Sabiu :nigeria:
 
